@@ -8,9 +8,6 @@ with open("palavras.txt", "r", encoding="utf-8-sig") as arquivo:
 # Declarando a varíavel da tabela, que irá receber um dict para cada linha
 tabela = []
 
-# Declarando uma variável de controle para as colunas da tabela
-coluna: int = 0
-
 while len(texto) >= 6:
     # Criando um dicionário com as primeiras 6 linhas atuais e inserindo na tabela
     palavras = texto[:6]
