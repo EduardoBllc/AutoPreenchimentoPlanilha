@@ -5,12 +5,6 @@ with open("palavras.txt", "r", encoding="utf-8-sig") as arquivo:
     # Capturando as palavras em uma lista sem o "\n" no final
     texto: list[str] = [palavra[:-1] for palavra in arquivo.readlines()]
 
-# Criando um falso cabeçalho com as primeiras 6 palavras
-cabecalho: list[str] = texto[:6]
-
-# Apagando as primeiras 6 palavras
-texto = texto[6:]
-
 # Declarando a varíavel da tabela, que irá receber um dict para cada linha
 tabela = []
 
