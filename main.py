@@ -28,5 +28,5 @@ while len(texto) >= 6:
 # Transformando a tabela em um DataFrame
 tabela = pd.DataFrame(data=tabela)
 
-# Gerando o arquivo em excel da tabela
-tabela.to_csv("tabela_de_palavras.csv", header=False, index=False)
+# Gerando o arquivo em excel da tabela sem o cabeçalho e a coluna de índice
+tabela.to_excel("tabela_de_palavras.xlsx", header=False, index=False)
