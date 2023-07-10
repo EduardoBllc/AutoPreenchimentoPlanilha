@@ -1,9 +1,13 @@
 import pandas as pd
+import random
 
 # Abrindo e lendo o arquivo.txt
 with open("palavras.txt", "r", encoding="utf-8-sig") as arquivo:
     # Capturando as palavras em uma lista sem o "\n" no final
     texto: list[str] = [palavra[:-1] for palavra in arquivo.readlines()]
+
+# Embaralhando as palavras
+random.shuffle(texto)
 
 # Declarando a varíavel da tabela, que irá receber um dict para cada linha
 tabela = []
