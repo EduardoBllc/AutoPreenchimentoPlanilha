@@ -1,5 +1,4 @@
-﻿bom
-dom
+﻿bom dom
 com
 som
 tom
@@ -319,7 +318,7 @@ depreciação
 desagregação
 intromissão
 pressão
-tecido de granulação
+granulação
 palavrão
 interrupção
 elaboração
@@ -548,9 +547,7 @@ validação
 centurião
 destruição
 simulação
-contramão
-força de expressão
-substituição
+contramão força de expressão substituição
 vinculação
 emersão
 elocução
@@ -600,9 +597,7 @@ interjeição
 tenção
 privatização
 imolação
-pregão
-lacração
-embrião
+pregão lacração embrião
 alimentação
 gibão
 parlapatão
@@ -611,9 +606,7 @@ refração
 delação
 espigão
 subseção
-serração
-detração
-mobilização
+serração detração mobilização
 deflexão
 utilização
 aproximação
@@ -639,21 +632,17 @@ masturbação
 contraindicação
 distorção
 intelecção
-corrimão
-ribeirão
+corrimão ribeirão
 canalização
 abjeção
 elação
-exerção
-colonização
+exerção colonização
 bufão
 celebração
-enunciação
-malversação
+enunciação malversação
 submersão
 aculturação
 localização
-reprodução
-sacralização
+reprodução sacralização
 desmobilização
 preparação
