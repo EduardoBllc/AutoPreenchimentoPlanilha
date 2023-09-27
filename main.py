@@ -38,7 +38,7 @@ random.shuffle(lista_palavras)
 # Declarando a varíavel da tabela, que irá receber um dict para cada linha
 tabela: list[dict[int:str]] = []
 
-# Limitando em 6 para não gerar linhas incompletas
+# Limitando em 5 para não gerar linhas incompletas
 while len(lista_palavras) >= 5:
 
     # Criando um dicionário com as primeiras 5 linhas atuais e inserindo na tabela
